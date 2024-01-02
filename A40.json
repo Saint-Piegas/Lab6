@@ -1,0 +1,86 @@
+{
+    "canvasProps": {
+        "grid": true,
+        "legend": false,
+        "log_x": false,
+        "log_y": false,
+        "residuals": true,
+        "resmax": "",
+        "resmin": "",
+        "title": "Velocidade x Força - Asa A 40°",
+        "xaxis": "Velocidade (m/s)",
+        "xdiv": "",
+        "xmax": "",
+        "xmin": "",
+        "yaxis": "Força (mN)",
+        "ydiv": "",
+        "ymax": "",
+        "ymin": ""
+    },
+    "data": [
+        [
+            "0.0",
+            "2.548",
+            "9.8",
+            "0.1",
+            1
+        ],
+        [
+            "4.5",
+            "24.01",
+            "9.8",
+            "0.1",
+            1
+        ],
+        [
+            "8.7",
+            "52.92",
+            "9.8",
+            "0.1",
+            1
+        ],
+        [
+            "10.6",
+            "93.002",
+            "9.8",
+            "0.1",
+            1
+        ],
+        [
+            "15.3",
+            "174.158",
+            "9.8",
+            "0.1",
+            1
+        ],
+        [
+            "19.9",
+            "298.732",
+            "9.8",
+            "0.1",
+            1
+        ]
+    ],
+    "dataProps": {
+        "curve_color": "#000000",
+        "curve_style": "-",
+        "curve_thickness": 2,
+        "marker": "o",
+        "marker_color": "#000000",
+        "marker_size": 4
+    },
+    "fitProps": {
+        "adjust": true,
+        "expr": "a*x**2",
+        "p0": "",
+        "wsx": true,
+        "wsy": true,
+        "xmax": "",
+        "xmin": "",
+        "parameters": {
+            "a": 0.7554429790427075
+        }
+    },
+    "id": "",
+    "key": "2-b"
+}
